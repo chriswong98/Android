@@ -22,7 +22,8 @@ User Interface:
 3. Main Game Page
 
 
-![image](https://user-images.githubusercontent.com/42562789/169681306-93e5ebf0-deb2-491b-b66b-94b0dd4fa487.png)
+![image](https://user-images.githubusercontent.com/42562789/169681409-33f211fe-97f9-40a9-810a-d56c31ba5c4a.png)
+
 
 
 
