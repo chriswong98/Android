@@ -22,6 +22,9 @@ User Interface:
 3. Main Game Page
 
 
+![image](https://user-images.githubusercontent.com/42562789/169681306-93e5ebf0-deb2-491b-b66b-94b0dd4fa487.png)
+
+
 
 
 4. GameLog Page
