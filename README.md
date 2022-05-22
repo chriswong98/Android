@@ -1,7 +1,9 @@
 # Android
 
 Paper-Scissors-Rock Game (HD Android Course Assignment)
-  Objective: 	Develop a paper-scissors-rock mobile game for the human player to play against computer AI.
+  
+Objective: 	
+Develop a paper-scissors-rock mobile game for the human player to play against computer AI.
 	
   
 User Interface:
